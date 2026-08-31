@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asilmohammed846/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asilmohammed846/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/asilmohammed846/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/asilmohammed846/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/asilmohammed846/DSA/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asilmohammed846/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
