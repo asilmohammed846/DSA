@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/asilmohammed846/DSA/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3904-smallest-stable-index-ii](https://github.com/asilmohammed846/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/asilmohammed846/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
