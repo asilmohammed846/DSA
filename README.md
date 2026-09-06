@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asilmohammed846/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Database
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/asilmohammed846/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/asilmohammed846/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/asilmohammed846/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -75,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
