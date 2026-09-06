@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asilmohammed846/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
 ## Database
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asilmohammed846/DSA/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/asilmohammed846/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/asilmohammed846/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/asilmohammed846/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
