@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/asilmohammed846/DSA/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/asilmohammed846/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asilmohammed846/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3904-smallest-stable-index-ii](https://github.com/asilmohammed846/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/asilmohammed846/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asilmohammed846/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asilmohammed846/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/asilmohammed846/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asilmohammed846/DSA/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
