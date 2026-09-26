@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asilmohammed846/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/asilmohammed846/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/asilmohammed846/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/asilmohammed846/DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/asilmohammed846/DSA/tree/master/0905-sort-array-by-parity) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/asilmohammed846/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/asilmohammed846/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asilmohammed846/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/asilmohammed846/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/asilmohammed846/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/asilmohammed846/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/asilmohammed846/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/asilmohammed846/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/asilmohammed846/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## String
@@ -117,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asilmohammed846/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/asilmohammed846/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
